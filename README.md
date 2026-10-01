@@ -5,13 +5,13 @@
 
 
 🚀 About Me
-I'm a full-stack developer passionate about building interactive web applications, real-time multiplayer systems, and AI-driven spatial tools. I love turning creative ideas into functional, production-ready software—whether through hackathons or personal deep dives.
+I'm a full-stack developer passionate about building interactive web applications, real-time multiplayer systems, and using AI tools.
 
 🎮 Current Focus: Real-time web applications, gesture recognition, and interactive 3D web experiences.
 
 🛠️ Tech Stack: Python, TypeScript, React, FastAPI, WebRTC, Three.js, PostgreSQL.
 
-🏆 Hackathon Enthusiast: Winner of "Best Game" at WebJam 2025.
+🏆 Hackathons: Winner of "Best Game" at UC Irvine's WebJam 2025.
 
 💻 Featured Projects
 CastOff | React, TypeScript, WebRTC, MediaPipe, FastAPI, PostgreSQL, WebSockets
