@@ -4,8 +4,7 @@
 💻 **Learning Assistant** for ICS 31 (Intro to Python) & **Center Attendant** @ UCI Housing  
 
 
-🚀 About Me
-I'm a full-stack developer passionate about building interactive web applications, real-time multiplayer systems, and using AI tools.
+🚀 About Me: I'm a full-stack developer passionate about building interactive web applications, real-time multiplayer systems, and using AI tools.
 
 🎮 Current Focus: Real-time web applications, gesture recognition, and interactive 3D web experiences.
 
@@ -16,19 +15,19 @@ I'm a full-stack developer passionate about building interactive web application
 💻 Featured Projects
 CastOff | React, TypeScript, WebRTC, MediaPipe, FastAPI, PostgreSQL, WebSockets
 
-Real-time multiplayer dueling game where players cast spells using webcam-tracked hand gestures.
+- Real-time multiplayer dueling game where players cast spells using webcam-tracked hand gestures.
 
-Features client-side MediaPipe gesture recognition, peer-to-peer video via WebRTC, session-based auth, room matchmaking, and an Elo ranking system.
+- Features client-side MediaPipe gesture recognition, peer-to-peer video via WebRTC, session-based auth, room matchmaking, and an Elo ranking system.
 
 Spatial AI | Vite, Three.js, Gemini AI, FastAPI
 
-3D interior design web app built at IrvineHacks 2026.
+- 3D interior design web app built at IrvineHacks 2026.
 
-Integrates Gemini AI to translate natural language prompt inputs into structured JSON spatial coordinates to dynamically render furniture models in real time.
+- Integrates Gemini AI to translate natural language prompt inputs into structured JSON spatial coordinates to dynamically render furniture models in real time.
 
 ZotGuesser 🏆 (Best Game - WebJam 2025) | JavaScript, Google Maps API, Leaflet.js
 
-UCI-themed geolocation guessing game developed and shipped in a 7-day hackathon sprint.
+- UCI-themed geolocation guessing game developed and shipped in a 7-day hackathon sprint.
 
 🛠️ Tech & Tools
 Languages: Python, JavaScript, TypeScript, SQL, HTML, CSS
