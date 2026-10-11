@@ -1,4 +1,4 @@
-# Hi there, I'm Nhan Le 👋
+Nhan Le
 
 🎓 **Computer Science Undergrad @ UC Irvine** (GPA: 3.75 | Expected Graduation: 2029)  
 💻 **Learning Assistant** for ICS 31 (Intro to Python) & **Center Attendant** @ UCI Housing  
