@@ -6,8 +6,6 @@ Nhan Le
 
 🚀 About Me: I'm a full-stack developer passionate about building interactive web applications, real-time multiplayer systems, and using AI tools.
 
-🎮 Current Focus: Real-time web applications, gesture recognition, and interactive 3D web experiences.
-
 🛠️ Tech Stack: Python, TypeScript, React, FastAPI, WebRTC, Three.js, PostgreSQL.
 
 🏆 Hackathons: Winner of "Best Game" at UC Irvine's WebJam 2025.
